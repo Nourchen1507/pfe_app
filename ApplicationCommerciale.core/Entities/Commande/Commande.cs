@@ -11,7 +11,7 @@ namespace ApplicationCommerciale.Core.Entities.Commande
     {
 
         public Commande() { }
-
+        //testpush
         public Commande (string emailAcheteur, DateTime dateCommande, AdresseLivraison addresseLivraison, MethodeLivraison methodeLivraison, IReadOnlyList<ArticleCommande> articleCommandes, decimal soustotal, StatutCommande statutCommande, string idPaiement)
         {
             EmailAcheteur = emailAcheteur;
