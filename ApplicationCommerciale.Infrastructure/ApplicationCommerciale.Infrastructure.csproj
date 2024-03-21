@@ -25,10 +25,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Config\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ApplicationCommerciale.Core\ApplicationCommerciale.Core.csproj" />
   </ItemGroup>
 
