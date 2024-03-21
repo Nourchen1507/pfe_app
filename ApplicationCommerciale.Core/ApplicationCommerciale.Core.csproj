@@ -8,9 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Dtos\" />
-    <Folder Include="Sharing\" />
     <Folder Include="Services\" />
+    <Folder Include="Sharing\" />
   </ItemGroup>
 
   <ItemGroup>
